@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Ice Caves",
+        "location": "Iceland",
+        "image": "assets/profile/12.jpg",
+        "price": 400,
+        "about": "Start an advanture with a 14-day jaurney in iceland and explore the caves",
+        "length" : 14
+       
+    },
+    {
+        "name": "Blue Ocean",
+        "location": "North Sea",
+        "image": "assets/profile/13.jpg",
+        "price": 600,
+        "about": "Embark on an adventure and explore the dark depths on a 35-day voyage across the North Sea.",
+        "length" : 35
+       
+    },
+    {
+        "name": "Green Forest",
+        "location": "Austria",
+        "image": "assets/profile/14.jpg",
+        "price": 200,
+        "about": "Start your adventure with a 5-day trip in beautiful forests and enjoy nature",
+        "length" : 5
+       
+    }
+]
